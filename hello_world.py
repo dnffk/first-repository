@@ -1,7 +1,10 @@
-def print_hello():
-    print("My name is Park Ju Yeon! Nice to meet you!")
-    print("Hello Github!! Hello world!!")
+def add(x, y):
+    a = x + y
+    return a
 
+def print_YES():
+    print("YEEEEES!!")
+    
 if __name__ == '__main__':
     print_hello()
     
